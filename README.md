@@ -326,7 +326,7 @@ Contributions welcome! Areas of interest:
 
 ### 🔬 Built for Security Research & Enterprise Threat Detection
 
-**Last Updated:** March 3, 2026 | **Version:** 1.0 | **Language:** Python 3.9+
+**Last Updated:** March 14, 2026 | **Version:** 1.0 | **Language:** Python 3.9+
 
 ⭐ If this helps you, please star the repo!
 
